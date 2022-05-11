@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @H1t4l0
+- 👋 Hi, I’m Hitalo
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on security
+- 🌱 I’m currently computer engineering
+- 💞️ I’m looking to collaborate on security and computer engineering
 - 📫 How to reach me in discord(Mr.Robot #9903)
 
 <!---
