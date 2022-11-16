@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitalo
-- 👀 I’m interested in information security
-- 🌱 I’m currently computer engineering
+- 👀 I’m interested in information security and Programing
+- 🌱 I’m currently computer science
 - 💞️ I’m looking to collaborate on security and computer engineering
 - 📫 How to reach me in discord(Mr.Robot #9903)
 
